@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priz01
+- 👋 Hi, I’m @Priz01d
 - 👀 I’m interested in coding on Rust Lang and other programming languages.
 - 🌱 I’m currently learning Rust Lang.
 - 💞️ I’m looking to collaborate on ...
