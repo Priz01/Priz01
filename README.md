@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Priz01
-- 👀 I’m interested in coding on Rust Lang and other programming languages.
-- 🌱 I’m currently learning Rust Lang.
+- 👀 I'm interested in programming on Rust, physics and engineering.
+- 🌱 I'm currently working on a project related to neurobiology and the Conway's Game of Life.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Priz01#4005, vlaula27_priz01@vk.com
+- 📫 How to reach me: vlaula27 (VK), @Priz01d (Telegram), vlaula27_priz01@vk.com
 
 <!---
 Priz01/Priz01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
